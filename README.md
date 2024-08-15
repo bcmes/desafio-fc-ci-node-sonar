@@ -26,3 +26,4 @@
 - se tiver usando, tem de atualizar o cadastro da action no github..
 - Obs.: Quando passa no step do sonnar-cloud, isso só quer dizer que foi enviado com sucesso para a cloud o código para analise, se aprovado lá, ele responde para o github, habilitando assim o botao de merge.
 - congigurei no github a branch master para aceitar o codigo, somente se os test e o sonar 'passar'.
+- realizando test para o  status check falhar.
